@@ -1,0 +1,3 @@
+Focal length of objective: 100 mm
+f.l. eyepiece  magnification
+        10.0             10
