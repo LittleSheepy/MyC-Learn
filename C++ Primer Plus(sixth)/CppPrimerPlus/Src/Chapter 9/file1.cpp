@@ -22,5 +22,6 @@ int main()
         continue;
     cin.get();
 */
+	cin.get();
     return 0; 
 }

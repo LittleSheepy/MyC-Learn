@@ -16,6 +16,6 @@ int main()                  // uses global variable
     cout << "Global warming is " << warming << " degrees.\n";
     local();                // call function with local warming
     cout << "Global warming is " << warming << " degrees.\n";
-    // cin.get();
+    cin.get();
     return 0;
 }

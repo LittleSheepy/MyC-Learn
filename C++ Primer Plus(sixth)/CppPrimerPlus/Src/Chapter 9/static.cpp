@@ -30,7 +30,7 @@ cin.clear();
     while (cin.get() != '\n')
         continue;
     cin.get();
-*/
+*/cin.get();
     return 0;
 }
 
