@@ -4,9 +4,12 @@
 using namespace std;
 
 void pointers_references(void);
+void TemplateDemo(void);
+void ClassTemplateDemo(void);
+void NonTypeTemplateParameterDemo(void);
 int main(void)
 {
     SetConsoleOutputCP(65001);
-    pointers_references();
+    NonTypeTemplateParameterDemo();
     return 0;
 }
